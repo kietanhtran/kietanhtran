@@ -39,6 +39,7 @@
   Made with :heart: &nbsp;using GitHub Markdown by Kiet
   <br />
   <br />
+  <img src="./source.gif" align="left" width="10%" heigh="10%"></p>
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
 
