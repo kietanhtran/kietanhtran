@@ -9,10 +9,12 @@
 - ⚡ Fun fact: I :heart: :dog:
 - 😄 Website: https://kietanhtran.github.io/
 
-<h2 align="center">Github stats :bar_chart: 👨‍💻 🛠</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kietanhtran&show_icons=true&theme=dracula"></p>
 <h2 align="center">Top langs :tongue: 💻</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kietanhtran&langs_count=10&theme=tokyonight&layout=compact"></p>
+
+<h2 align="center">Github stats :bar_chart: 👨‍💻 🛠</h2>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kietanhtran&show_icons=true&theme=dracula"></p>
+
 <h2 align="center">You can reach me at :alien: 👨‍</h2>
 <p align="center">
 
