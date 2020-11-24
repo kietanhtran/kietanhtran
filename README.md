@@ -5,8 +5,7 @@
 - 🔭 I’m currently working on Embedded System.
 - 🌱 I’m currently learning about new languages or Os such as Linux, Python, C#, Css, Js...
 - 💬 Ask me about something related to C/C++/Python
-- 📫 How to reach me: [@anhkiettrann](https://www.facebook.com/anhkiettrann)
-- ⚡ Fun fact: I :heart: :dog:
+- ⚡ Fun fact: I :heart: :dog:, travel and sport.
 - 😄 Website: https://kietanhtran.github.io/
 
 <h2 align="center">Top langs :tongue: 💻</h2>
@@ -15,7 +14,7 @@
 <h2 align="center">Github stats :bar_chart: 👨‍💻 🛠</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kietanhtran&show_icons=true&theme=dracula"></p>
 
-<h2 align="center">You can reach me at :alien: 👨‍</h2>
+<h2 align="center">You can reach me at :alien: </h2>
 <p align="center">
 
   <a href="https://www.linkedin.com/in/kiettrananh/">
@@ -35,7 +34,7 @@
   </a>
  </p>
  
- <p align="center">
+<p align="center">
   Made with :heart: &nbsp;using GitHub Markdown by Kiet
   <br />
   <br />
