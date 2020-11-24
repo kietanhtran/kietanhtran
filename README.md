@@ -33,8 +33,7 @@
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Kiet's YouTube Channel" height="30" width="30">
   </a>
  </p>
-Credits: [Kiet](https://github.com/kietanhtran)
-Last Edited on: 25/11/2020
+
  
 <p align="center">
   Made with :heart: &nbsp;using GitHub Markdown by Kiet
@@ -42,3 +41,7 @@ Last Edited on: 25/11/2020
   <br />
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
+
+Credits: [Kiet](https://github.com/kietanhtran)
+
+Last Edited on: 25/11/2020
