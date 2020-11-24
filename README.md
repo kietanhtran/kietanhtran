@@ -34,3 +34,10 @@
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Kiet's YouTube Channel" height="30" width="30">
   </a>
  </p>
+ 
+ <p align="center">
+  Made with :heart: &nbsp;using GitHub Markdown by Kiet
+  <br />
+  <br />
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</p>
