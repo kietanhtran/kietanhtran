@@ -9,6 +9,6 @@
 - ⚡ Fun fact: I :heart: :dog:
 - 😄 Website: https://kietanhtran.github.io/
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kietanhtran&show_icons=true&theme=dracula)
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kietanhtran&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kietanhtran&show_icons=true&theme=dracula"></p>
+<h4 align="center">Top langs :tongue:</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kietanhtran&langs_count=10&theme=tokyonight&layout=compact"></p>
