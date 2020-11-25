@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I :heart: :dog:, travel and sport.
 - 😄 Website: https://kietanhtran.github.io/
 
-<h2 align="center">Top langs :tongue: 💻</h2>
+<h2 align="center">Top languages :tongue: 💻</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kietanhtran&langs_count=10&theme=tokyonight&layout=compact"></p>
 
 <h2 align="center">Github stats :bar_chart: 👨‍💻 🛠</h2>
