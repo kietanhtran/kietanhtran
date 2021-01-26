@@ -25,8 +25,8 @@
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="FB kiet" height="30" width="30">
   </a>
   
-  <a href="https://www.facebook.com/anhkiettrann">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Mail kiet" height="30" width="30">
+  <a href="https://join.skype.com/invite/nQxePHnFBfce">
+    <img src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" alt="Skype kiet" height="30" width="30">
   </a>
   
   <a href="https://www.youtube.com/channel/UCOnAlZYfVn6uAaJbt0pxhfA/featured?view_as=subscriber">
@@ -46,4 +46,4 @@
 
 Credits: [Kiet](https://github.com/kietanhtran)
 
-Last Edited on: 25/11/2020
+Last Edited on: 26/01/2021
