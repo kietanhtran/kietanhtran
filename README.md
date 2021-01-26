@@ -1,7 +1,6 @@
 👋 👋 👋
 
 ![alt text](./iamkiet.gif)
-<img src="./source.gif" width="10%" heigh="10%"></p>
 - 🔭 I’m currently working on Embedded System.
 - 🌱 I’m currently learning about new languages or Os such as Linux, Python, C#, Css, Js...
 - 💬 Ask me about something related to C/C++/Python
